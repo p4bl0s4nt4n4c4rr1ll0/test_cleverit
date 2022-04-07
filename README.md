@@ -20,4 +20,4 @@ Pequeña API que obtiene los números primos ordenados en forma descendente.
 ``npm run test``
 
 ## Ver documentación Swagger
-Ir a ``http://localhost:/docs``
+Ir a ``http://localhost:<puerto>/docs``
